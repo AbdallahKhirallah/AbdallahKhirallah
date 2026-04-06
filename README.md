@@ -2,14 +2,12 @@
 
 <br/>
 
-<h2>hi, I'm Abdallah.</h2>
+![header](https://capsule-render.vercel.app/api?type=transparent&text=hi,%20I'm%20Abdallah.&fontColor=F5DEB3&fontSize=70&height=100&fontAlign=50)
 
-<p>I build things for the web <br/>
+<p>I build things for the web<br/>
+
 
 </div>
-
----
-
 
 ### Stack
 
@@ -30,7 +28,7 @@
 
 </div>
 
----
+<br/>
 
 ### LeetCode
 
@@ -40,18 +38,16 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<br/>
-
 *"The details are not the details. They make the design."*
- Charles Eames
+— Charles Eames
 
 <br/>
 
-*Open to internships and interesting collaborations.*
+*Open to interesting collaborations.*
 
 <br/>
 

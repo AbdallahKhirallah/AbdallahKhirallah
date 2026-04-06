@@ -2,13 +2,13 @@
 
 <br/>
 
-# ABDALLAH KHIRALLAH
+# Abdallah Khirallah
 
-`CS Student  ·  Full-Stack Developer  ·  Montreal`
+*CS Student · Full-Stack Developer · Montreal*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AbdallahKhirallah/portfolio)&ensp;[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahkhirallah)&ensp;[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahkhirallah)&ensp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah@example.com)
 
 <br/>
 
@@ -16,84 +16,31 @@
 
 ---
 
-<br/>
-
-```sh
-$ whoami
-```
+### About
 
 Computer Science student at **Concordia University**, Montreal.
-I build full-stack web applications — thoughtfully crafted, detail-obsessed.
-Currently deep in React, TypeScript, and the architecture of things that scale.
+I build full-stack web applications — thoughtfully crafted, detail-obsessed, built to last.
 
 When I'm not shipping code, I'm studying theory —
 formal languages, automata, and the quiet elegance of math meeting practice.
 
-<br/>
+---
+
+### What I Work With
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL`
+`Tailwind CSS` `Vite` `JWT` `REST APIs` `DigitalOcean` `GitHub Actions`
 
 ---
 
-<br/>
+### Education
 
-```sh
-$ ls skills/
-```
-
-<br/>
-
-<div align="center">
-
-| Frontend | Backend | Infrastructure |
-|:---:|:---:|:---:|
-| React · TypeScript · Tailwind | Node.js · Express · REST | PostgreSQL · DigitalOcean |
-| Vite · CSS Modules | JWT · SendGrid | PM2 · S3 · GitHub Actions |
-
-</div>
-
-<br/>
+**B.Sc. Computer Science** — Concordia University, Montreal
+Algorithms · Formal Languages & Automata · Software Engineering · Databases
 
 ---
 
-<br/>
-
-```sh
-$ ls projects/
-```
-
-<br/>
-
-**[JAT — Job Application Tracker](https://github.com/AbdallahKhirallah/job-application-tracker)**&ensp;·&ensp;[trackjat.me](https://trackjat.me)
-Production full-stack app for managing your entire job search pipeline —
-Kanban board, JWT auth, email reminders, resume uploads, and weekly goal tracking.
-
-`React` `Node.js` `PostgreSQL` `DigitalOcean`
-
-<br/>
-
-**[Personal Portfolio](https://github.com/AbdallahKhirallah/portfolio)**
-Clean, performant, and intentional.
-
-`TypeScript` `React` `Tailwind` `Vite`
-
-<br/>
-
-**[Resourcely](https://github.com/ShayLuan/Resourcely)**
-Fully deployable university resource booking system —
-scheduling, cancellations, accounts, and notifications.
-
-`JavaScript`
-
-<br/>
-
----
-
-<br/>
-
-```sh
-$ git log --stat
-```
-
-<br/>
+### GitHub
 
 <div align="center">
 
@@ -101,26 +48,21 @@ $ git log --stat
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-```sh
-$ echo $EDUCATION
-```
-
-**B.Sc. Computer Science** — Concordia University, Montreal
-Algorithms · Formal Languages & Automata · Software Engineering · Databases
-
-<br/>
-
----
-
-<br/>
+### LeetCode
 
 <div align="center">
+
+<img src="https://leetcard.jacoblin.cool/AbdallahKhirallah?theme=dark&border_radius=10&show_rank=true&animation=true" alt="LeetCode stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
 
 *"The details are not the details. They make the design."*
 — Charles Eames

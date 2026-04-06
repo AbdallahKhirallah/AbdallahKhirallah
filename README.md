@@ -2,13 +2,9 @@
 
 <br/>
 
-# Abdallah Khirallah
+<h2>hi, I'm Abdallah.</h2>
 
-*CS Student · Full-Stack Developer · Montreal*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahkhirallah)&ensp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah@example.com)
+<p>I build things for the web —<br/>and get unreasonably excited about formal language theory.</p>
 
 <br/>
 
@@ -18,18 +14,31 @@
 
 ### About
 
-Computer Science student at **Concordia University**, Montreal.
-I build full-stack web applications — thoughtfully crafted, detail-obsessed, built to last.
+CS student at **Concordia University**, Montreal.
+Full-stack developer with a thing for clean architecture, obsessive attention to detail, and code that actually holds up.
 
-When I'm not shipping code, I'm studying theory —
-formal languages, automata, and the quiet elegance of math meeting practice.
+When I'm not shipping, I'm buried in theory — automata, formal languages, and the elegant math underneath it all.
 
 ---
 
-### What I Work With
+### Stack
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL`
-`Tailwind CSS` `Vite` `JWT` `REST APIs` `DigitalOcean` `GitHub Actions`
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
@@ -37,16 +46,6 @@ formal languages, automata, and the quiet elegance of math meeting practice.
 
 **B.Sc. Computer Science** — Concordia University, Montreal
 Algorithms · Formal Languages & Automata · Software Engineering · Databases
-
----
-
-### GitHub
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbdallahKhirallah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&count_private=true" />&ensp;<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahKhirallah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-
-</div>
 
 ---
 

@@ -4,22 +4,12 @@
 
 <h2>hi, I'm Abdallah.</h2>
 
-<p>I build things for the web —<br/>and get unreasonably excited about formal language theory.</p>
-
-<br/>
+<p>I build things for the web <br/>
 
 </div>
 
 ---
 
-### About
-
-CS student at **Concordia University**, Montreal.
-Full-stack developer with a thing for clean architecture, obsessive attention to detail, and code that actually holds up.
-
-When I'm not shipping, I'm buried in theory — automata, formal languages, and the elegant math underneath it all.
-
----
 
 ### Stack
 
@@ -42,13 +32,6 @@ When I'm not shipping, I'm buried in theory — automata, formal languages, and 
 
 ---
 
-### Education
-
-**B.Sc. Computer Science** — Concordia University, Montreal
-Algorithms · Formal Languages & Automata · Software Engineering · Databases
-
----
-
 ### LeetCode
 
 <div align="center">
@@ -64,11 +47,11 @@ Algorithms · Formal Languages & Automata · Software Engineering · Databases
 <br/>
 
 *"The details are not the details. They make the design."*
-— Charles Eames
+ Charles Eames
 
 <br/>
 
-*Open to internships, co-ops, and interesting collaborations.*
+*Open to internships and interesting collaborations.*
 
 <br/>
 

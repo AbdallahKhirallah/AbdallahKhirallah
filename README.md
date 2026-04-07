@@ -2,7 +2,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=hi,%20I'm%20Abdallah.&fontColor=F5DEB3&fontSize=70&height=100&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hey,%20I'm%20Abdallah.&fontColor=F5DEB3&fontSize=70&height=100&fontAlign=50)
 
 ![subtext](https://capsule-render.vercel.app/api?type=transparent&text=I%20turn%20curiosity%20into%20code.&fontColor=F5DEB3&fontSize=22&height=40&fontAlign=50)
 

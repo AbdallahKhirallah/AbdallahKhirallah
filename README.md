@@ -21,6 +21,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)

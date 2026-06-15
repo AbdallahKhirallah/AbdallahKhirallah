@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=87CEFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=I+turn+curiosity+into+code.;Always+building%2C+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=87CEFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=I+turn+curiosity+into+code.;Always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,11 @@
 ```bash
 $ whoami
 ▸ Full-Stack Developer
-▸ Based in Montreal
 ▸ CS @ Concordia University
-▸ Currently obsessing over: system design & DSA
+▸ Currently obsessing over: Python, DSA & SQL
 ```
 
----
+--- 
 
 ## ⚡ Stack
 
@@ -45,16 +44,6 @@ $ whoami
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdallahKhirallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87CEFA&icon_color=87CEFA&text_color=aaaaaa" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahKhirallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87CEFA&text_color=aaaaaa" />
-
-</div>
 
 ---
 
@@ -80,7 +69,7 @@ $ whoami
 
 <div align="center">
 
-*"The details are not the details. They make the design."* — Charles Eames
+*"The details are not the details. They make the design"* — Charles Eames
 
 </div>
 

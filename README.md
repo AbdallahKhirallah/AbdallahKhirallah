@@ -31,16 +31,6 @@ $ whoami
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahKhirallah&bg_color=0d1117&color=87CEFA&line=87CEFA&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 *"The details are not the details. They make the design"* — Charles Eames
